@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rodvader8
-- 👀 I’m interested in web design
-- 🌱 I’m currently learning HTML CSS JavaScript
+- 👀 I’m interested in app development
+- 🌱 I’m currently building things...
 
 
 <!---
