@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rodvader8
-- 👀 I’m interested in app development
+- 👀 I’m a Jazz-head
 - 🌱 I’m currently building things...
 
 
