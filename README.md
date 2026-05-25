@@ -1,6 +1,16 @@
-- 👋 Hi, I’m @Rodvader8
-- 👀 I’m a Jazz-head
-- 🌱 I’m currently building things...
+# Rod Fernandez
+
+I build websites, automation systems and practical AI tools for service businesses.
+
+Currently focused on:
+
+- Python automation and backend workflows
+- AI-assisted business systems
+- SEO/AEO-focused website architecture
+- Next.js, Astro, React, Supabase and API integrations
+- Voice AI, CRM workflows and lead capture systems
+
+Main site: https://rodfernandezdesign.com
 
 
 <!---
